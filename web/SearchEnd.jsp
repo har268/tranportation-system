@@ -1,8 +1,4 @@
-<%-- 
-    Document   : SearchEnd
-    Created on : 3 Jul, 2016, 9:58:53 PM
-    Author     : Suryansh
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
