@@ -1,8 +1,4 @@
-<%-- 
-    Document   : OnBehalfStatus
-    Created on : 21 Jun, 2016, 11:19:57 PM
-    Author     : Suryansh
---%>
+
 
 
 <%@page import="java.sql.ResultSet"%>
