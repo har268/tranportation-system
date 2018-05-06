@@ -1,8 +1,4 @@
-<%-- 
-    Document   : IdStore
-    Created on : 14 Jun, 2016, 11:42:26 PM
-    Author     : Suryansh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
