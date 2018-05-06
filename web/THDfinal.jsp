@@ -1,8 +1,4 @@
-<%-- 
-    Document   : THDfinal
-    Created on : 15 Jun, 2016, 1:04:45 AM
-    Author     : Suryansh
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
