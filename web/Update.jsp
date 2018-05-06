@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Update
-    Created on : 18 Jun, 2016, 12:50:06 AM
-    Author     : Suryansh
---%>
+
 <%@page import="java.util.Random"%>
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
