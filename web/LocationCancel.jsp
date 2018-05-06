@@ -1,8 +1,3 @@
-<%-- 
-    Document   : LocationCancel
-    Created on : 2 Jul, 2016, 11:36:30 PM
-    Author     : Suryansh
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
