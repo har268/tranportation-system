@@ -1,8 +1,3 @@
-<%-- 
-    Document   : THDEnd
-    Created on : 15 Jun, 2016, 1:08:28 AM
-    Author     : Suryansh
---%>
 
 <%@page import="java.util.Properties"%>  
 <%@page import="javax.mail.*"%>  
