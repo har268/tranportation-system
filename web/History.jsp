@@ -1,8 +1,3 @@
-<%-- 
-    Document   : History
-    Created on : 10 Jun, 2016, 1:41:08 AM
-    Author     : Suryansh
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
