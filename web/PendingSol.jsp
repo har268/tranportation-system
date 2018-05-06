@@ -1,8 +1,4 @@
-<%-- 
-    Document   : PendingSol
-    Created on : 7 Jun, 2016, 11:07:43 PM
-    Author     : Suryansh
---%>
+
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
 <%@page import="java.sql.PreparedStatement"%>
