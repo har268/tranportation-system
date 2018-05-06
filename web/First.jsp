@@ -1,8 +1,3 @@
-<%-- 
-    Document   : First
-    Created on : 6 Jun, 2016, 6:51:04 PM
-    Author     : Suryansh
---%>
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
