@@ -1,8 +1,4 @@
-<%--
-    Document   : THDforward
-    Created on : 14 Jun, 2016, 12:31:38 AM
-    Author     : Suryansh
---%>
+
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
 <%@page import="java.sql.PreparedStatement"%>
