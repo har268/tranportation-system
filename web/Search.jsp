@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Search
-    Created on : 3 Jul, 2016, 9:54:17 PM
-    Author     : Suryansh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
