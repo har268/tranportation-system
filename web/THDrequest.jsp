@@ -1,8 +1,4 @@
-<%-- 
-    Document   : THDrequest
-    Created on : 14 Jun, 2016, 12:28:45 AM
-    Author     : Suryansh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
