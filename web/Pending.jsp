@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Pending
-    Created on : 7 Jun, 2016, 10:26:35 PM
-    Author     : Suryansh
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
