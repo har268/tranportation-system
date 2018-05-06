@@ -1,8 +1,4 @@
-<%-- 
-    Document   : End
-    Created on : 8 Jun, 2016, 12:15:33 AM
-    Author     : Suryansh
---%>
+
 <%@page import="java.util.Properties"%>  
 <%@page import="javax.mail.*"%>  
 <%@page import="javax.mail.internet.*"%>  
