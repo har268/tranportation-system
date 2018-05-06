@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Status
-    Created on : 8 Jun, 2016, 12:03:29 AM
-    Author     : Suryansh
---%>
+
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
 <%@page import="java.sql.PreparedStatement"%>
