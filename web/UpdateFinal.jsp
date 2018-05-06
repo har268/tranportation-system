@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Second
-    Created on : 6 Jun, 2016, 11:33:06 PM
-    Author     : Suryansh
---%>
+
 <%@page import="java.util.Calendar"%>
 <%@page import="java.sql.*"%>
 
